@@ -39,3 +39,26 @@ Car c = new Car();
 ```
 
 ដំណើរការនៃការបង្កើត object ឬ instance ពី class មួយយើងហៅថា `instantiated`
+
+## Fields
+
+យើងប្រាកដជាត្រូវការទិន្នន័យផ្សេងៗដើម្បីភ្ជាប់ទៅនិង Class របស់យើងហើយ ។ រាល់ pieces​ of data ត្រូវបានគេហៅថា fields ។
+
+```c#
+class Car {
+  public string type;
+  public int model;
+}
+```
+
+យើងអាចយក fields ទាំងនោះហើយប្តូរតម្លៃវាដោយប្រើ .
+
+```c#
+Car f = new Car();
+f.type = "SportCar";
+Console.WriteLine(f.type); // Prints "SportCar"
+
+Car f2 = new Car();
+f2.type = "Pick-up Car";
+Console.WriteLine(f2.type); // Prints "Pick-up Car"
+```
