@@ -117,3 +117,28 @@ f.speed = -10; // using field
 យើងគួតែឱ្យ field ជា private ហើយ properties ជា public
 
 ហេតុផលគឺព្រោះពេលយើងដាក់ field ទៅជា Private main() method មិនអាច access class member មួយនិងបានទេ ។
+
+## Get-Only properties
+
+ប្រសិនជាយើងគ្រាន់តែចង់ get តម្លៃមួយពី Properties ដោយមិនខ្វល់ពីការ set តម្លៃយើងអាចធ្វើបានពីររបៀប
+
+- កុំដាក់ set() method
+- ធ្វើឱ្យ set() method ក្លាយទៅជា private
+
+វិធីទីមួយ
+
+```c#
+public string Age
+{
+  get { return age; }
+}
+```
+
+វិធីទីពីរ
+
+```c#
+public string Age
+{
+  get { return age; }
+}
+```
