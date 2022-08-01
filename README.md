@@ -62,3 +62,35 @@ Car f2 = new Car();
 f2.type = "Pick-up Car";
 Console.WriteLine(f2.type); // Prints "Pick-up Car"
 ```
+
+## Properties
+
+មកដល់ត្រឹមនេះ យើងអាចដាក់តម្លៃអ្វីក៏បាននៅក្នុង `Car` field ចុះឩទាហរណ៍ថាយើងមាន field មួយដែលទាក់ទងនិង speed (ល្បឿន) ហើយយើងឱ្យតម្លៃវា -10 តើមានល្បឿនឡានជាតម្លៃអវិជ្ជមានដែរឬទេ ចម្លើយគឺអត់ទេ ដូច្នេះយើងត្រូវការប្រើប្រាស់ C# property ដើម្បីឆែកលក្ខណទាំងនេះ (property​​ គឺជាប្រភេទមួយទៀតនៃ class member របស់ C#) ។
+
+យើងអាចគិតថា properties ថាជាអ្នកមើលការខុសត្រូវរបស់ feild យើងអាចប្រើវាដើម្បីវាយតម្លៃថាអាតម្លៃមួយនិងវាគួរតែដាក់នៅក្នុង field ឬក៏អត់ ។
+
+This is the syntax
+
+យើងអាចឱ្យវាពិនិត្យលក្ខណបានដូចនេះ
+
+```c#
+public int Speed
+{
+  get { return speed; }
+  set
+  {
+    if (value < 0) { speed = 0; }
+    else { speed = value; }
+  }
+}
+```
+
+```c#
+Car f = new Car();
+// set() is called
+f.Speed = -1;
+// get() is called; prints 0
+Console.WriteLine(f.Speed);
+```
+
+ចឹងកូដខាងលើប្រសិនបើ speed field របស់យើងវាតូចជា 0 យើងនិងឱ្យតម្លៃ speed របស់យើងស្មើសូន្យនៅក្នុង field
