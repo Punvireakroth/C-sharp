@@ -142,3 +142,7 @@ public string Age
   get { return age; }
 }
 ```
+
+## Methods
+
+method គឺជាប្រភេទ class member មួយទៀតចឹងរាប់ទៅ Class member មានបីធំៗគឺ field, properties, method ។​ យើងធ្លាប់ស្គាល់ថា Function ជាអ្វីហើយចឹងយើងអាចសន្មតថា method គឹជាសកម្មភាពអ្វីមួយដែល Object របស់យើងអាចធ្វើបាន ។
