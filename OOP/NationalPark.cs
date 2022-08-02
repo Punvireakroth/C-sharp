@@ -28,7 +28,12 @@ namespace BasicClasses
             name = "Unknown";
         }
         }
-
+    } 
+    public int Age
+    {
+      get { return age; }
+      private set { age = value; }
+      
     }
   }
 
