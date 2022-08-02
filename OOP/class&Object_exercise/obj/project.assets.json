@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OOP\\exercise_1\\exercise_1.csproj",
-      "projectName": "exercise_1",
-      "projectPath": "C:\\OOP\\exercise_1\\exercise_1.csproj",
+      "projectUniqueName": "C:\\OOP\\class&Object_exercise\\class&Object_exercise.csproj",
+      "projectName": "class&Object_exercise",
+      "projectPath": "C:\\OOP\\class&Object_exercise\\class&Object_exercise.csproj",
       "packagesPath": "C:\\Users\\TNC\\.nuget\\packages\\",
-      "outputPath": "C:\\OOP\\exercise_1\\obj\\",
+      "outputPath": "C:\\OOP\\class&Object_exercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TNC\\AppData\\Roaming\\NuGet\\NuGet.Config",
