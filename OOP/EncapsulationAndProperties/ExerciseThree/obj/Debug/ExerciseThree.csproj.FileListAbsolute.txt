@@ -1,0 +1,8 @@
+C:\OOP\C-sharp\OOP\EncapsulationAndProperties\ExerciseThree\bin\Debug\ExerciseThree.exe.config
+C:\OOP\C-sharp\OOP\EncapsulationAndProperties\ExerciseThree\bin\Debug\ExerciseThree.exe
+C:\OOP\C-sharp\OOP\EncapsulationAndProperties\ExerciseThree\bin\Debug\ExerciseThree.pdb
+C:\OOP\C-sharp\OOP\EncapsulationAndProperties\ExerciseThree\obj\Debug\ExerciseThree.csproj.AssemblyReference.cache
+C:\OOP\C-sharp\OOP\EncapsulationAndProperties\ExerciseThree\obj\Debug\ExerciseThree.csproj.SuggestedBindingRedirects.cache
+C:\OOP\C-sharp\OOP\EncapsulationAndProperties\ExerciseThree\obj\Debug\ExerciseThree.csproj.CoreCompileInputs.cache
+C:\OOP\C-sharp\OOP\EncapsulationAndProperties\ExerciseThree\obj\Debug\ExerciseThree.exe
+C:\OOP\C-sharp\OOP\EncapsulationAndProperties\ExerciseThree\obj\Debug\ExerciseThree.pdb
