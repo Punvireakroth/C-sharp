@@ -33,7 +33,6 @@ namespace BasicClasses
     {
       get { return age; }
       private set { age = value; }
-      
     }
   }
 
