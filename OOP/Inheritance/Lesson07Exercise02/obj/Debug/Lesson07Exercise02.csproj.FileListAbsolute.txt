@@ -1,0 +1,8 @@
+C:\OOP\C-sharp\OOP\Inheritance\Lesson07Exercise02\bin\Debug\Lesson07Exercise02.exe.config
+C:\OOP\C-sharp\OOP\Inheritance\Lesson07Exercise02\bin\Debug\Lesson07Exercise02.exe
+C:\OOP\C-sharp\OOP\Inheritance\Lesson07Exercise02\bin\Debug\Lesson07Exercise02.pdb
+C:\OOP\C-sharp\OOP\Inheritance\Lesson07Exercise02\obj\Debug\Lesson07Exercise02.csproj.AssemblyReference.cache
+C:\OOP\C-sharp\OOP\Inheritance\Lesson07Exercise02\obj\Debug\Lesson07Exercise02.csproj.SuggestedBindingRedirects.cache
+C:\OOP\C-sharp\OOP\Inheritance\Lesson07Exercise02\obj\Debug\Lesson07Exercise02.csproj.CoreCompileInputs.cache
+C:\OOP\C-sharp\OOP\Inheritance\Lesson07Exercise02\obj\Debug\Lesson07Exercise02.exe
+C:\OOP\C-sharp\OOP\Inheritance\Lesson07Exercise02\obj\Debug\Lesson07Exercise02.pdb
