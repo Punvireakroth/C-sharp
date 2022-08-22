@@ -1,0 +1,8 @@
+C:\OOP\C-sharp\OOP\Type_Of_Variables\Type_Of_Variables\bin\Debug\Type_Of_Variables.exe.config
+C:\OOP\C-sharp\OOP\Type_Of_Variables\Type_Of_Variables\bin\Debug\Type_Of_Variables.exe
+C:\OOP\C-sharp\OOP\Type_Of_Variables\Type_Of_Variables\bin\Debug\Type_Of_Variables.pdb
+C:\OOP\C-sharp\OOP\Type_Of_Variables\Type_Of_Variables\obj\Debug\Type_Of_Variables.csproj.AssemblyReference.cache
+C:\OOP\C-sharp\OOP\Type_Of_Variables\Type_Of_Variables\obj\Debug\Type_Of_Variables.csproj.SuggestedBindingRedirects.cache
+C:\OOP\C-sharp\OOP\Type_Of_Variables\Type_Of_Variables\obj\Debug\Type_Of_Variables.csproj.CoreCompileInputs.cache
+C:\OOP\C-sharp\OOP\Type_Of_Variables\Type_Of_Variables\obj\Debug\Type_Of_Variables.exe
+C:\OOP\C-sharp\OOP\Type_Of_Variables\Type_Of_Variables\obj\Debug\Type_Of_Variables.pdb
