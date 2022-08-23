@@ -1,0 +1,8 @@
+C:\OOP\C-sharp\OOP\12-PunVireakRoth-test2\12-PunVireakRoth-test2\bin\Debug\12-PunVireakRoth-test2.exe.config
+C:\OOP\C-sharp\OOP\12-PunVireakRoth-test2\12-PunVireakRoth-test2\bin\Debug\12-PunVireakRoth-test2.exe
+C:\OOP\C-sharp\OOP\12-PunVireakRoth-test2\12-PunVireakRoth-test2\bin\Debug\12-PunVireakRoth-test2.pdb
+C:\OOP\C-sharp\OOP\12-PunVireakRoth-test2\12-PunVireakRoth-test2\obj\Debug\12-PunVireakRoth-test2.csproj.AssemblyReference.cache
+C:\OOP\C-sharp\OOP\12-PunVireakRoth-test2\12-PunVireakRoth-test2\obj\Debug\12-PunVireakRoth-test2.csproj.SuggestedBindingRedirects.cache
+C:\OOP\C-sharp\OOP\12-PunVireakRoth-test2\12-PunVireakRoth-test2\obj\Debug\12-PunVireakRoth-test2.csproj.CoreCompileInputs.cache
+C:\OOP\C-sharp\OOP\12-PunVireakRoth-test2\12-PunVireakRoth-test2\obj\Debug\12-PunVireakRoth-test2.exe
+C:\OOP\C-sharp\OOP\12-PunVireakRoth-test2\12-PunVireakRoth-test2\obj\Debug\12-PunVireakRoth-test2.pdb
